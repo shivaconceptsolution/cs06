@@ -1,0 +1,15 @@
+D:\training\RelaycommandExample\RelaycommandExample\bin\Debug\RelaycommandExample.exe.config
+D:\training\RelaycommandExample\RelaycommandExample\obj\Debug\RelaycommandExample.csprojResolveAssemblyReference.cache
+D:\training\RelaycommandExample\RelaycommandExample\obj\Debug\MainWindow.g.cs
+D:\training\RelaycommandExample\RelaycommandExample\obj\Debug\App.g.cs
+D:\training\RelaycommandExample\RelaycommandExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\training\RelaycommandExample\RelaycommandExample\obj\Debug\RelaycommandExample_MarkupCompile.cache
+D:\training\RelaycommandExample\RelaycommandExample\obj\Debug\RelaycommandExample_MarkupCompile.lref
+D:\training\RelaycommandExample\RelaycommandExample\bin\Debug\RelaycommandExample.exe
+D:\training\RelaycommandExample\RelaycommandExample\bin\Debug\RelaycommandExample.pdb
+D:\training\RelaycommandExample\RelaycommandExample\obj\Debug\MainWindow.baml
+D:\training\RelaycommandExample\RelaycommandExample\obj\Debug\RelaycommandExample.g.resources
+D:\training\RelaycommandExample\RelaycommandExample\obj\Debug\RelaycommandExample.Properties.Resources.resources
+D:\training\RelaycommandExample\RelaycommandExample\obj\Debug\RelaycommandExample.csproj.GenerateResource.Cache
+D:\training\RelaycommandExample\RelaycommandExample\obj\Debug\RelaycommandExample.exe
+D:\training\RelaycommandExample\RelaycommandExample\obj\Debug\RelaycommandExample.pdb
